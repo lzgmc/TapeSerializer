@@ -1,6 +1,6 @@
 # TapeSerializer
 
-TapeSerializer is a tool for serializing Ubisoft's TAPE files for Just Dance 2016, Just Dance 2017, Just Dance 2018, Just Dance 2019 and Just Dance 2020 (New-Gen) to make them play-able for Old-Gen versions of the game.
+TapeSerializer is a tool for serializing Ubisoft's TAPE files for Just Dance 2016, Just Dance 2017, Just Dance 2018, Just Dance 2019 and Just Dance 2020 (New-gen) to make them play-able for Old-gen versions of the game.
 
 ## Installation
 
@@ -21,12 +21,9 @@ pip install unidecode
 
 ## Usage
 
-Put your New-Gen tapes in the same folder as the .py files and run the script that fits your files' 
-serialization type.
-
-Enter the files name with .ckd at end.
-
-and you are done! Have fun.
+Put your new-gen tapes in the same folder as the .py files and run the script that fits your files' 
+serialization type. Enter the files name with .ckd at end, press Enter and 
+your files are now serialized for Wii, PS3 and Wii U!
 
 ## Contributing
 For major changes, please open an issue first to discuss what you would like to change.
