@@ -2,6 +2,9 @@
 
 TapeSerializer is a tool for serializing Ubisoft's TAPE files for Just Dance 2016, Just Dance 2017, Just Dance 2018, Just Dance 2019 and Just Dance 2020 (New-gen) to make them play-able for Old-gen versions of the game.
 
+Back in 2019, I made a serializer and deserializer for myself but after some issues I had with my laptop, I lost all of my scripts.
+These scripts are from EkvirJD with my touch on them.
+
 ## Installation
 
 You need to download the latest version of [Python](https://www.python.org/downloads/)
