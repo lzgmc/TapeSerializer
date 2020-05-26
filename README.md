@@ -21,6 +21,10 @@ pip install binascii
 ```bash
 pip install unidecode
 ```
+and for chinese lyrics:
+```bash
+pip install hanzidentifier
+```
 
 ## Usage
 
